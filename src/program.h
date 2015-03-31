@@ -1,9 +1,7 @@
 /*
  * File: program.h
  * ---------------
- * This interface exports a Program class for storing a BASIC
- * program.
- *
+ * This interface exports a Program class for storing a BASIC program.
  *
  */
 
